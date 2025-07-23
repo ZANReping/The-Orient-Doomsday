@@ -1,0 +1,5 @@
+{
+	BATTLE_TACTICS: [ "CarefulAdvance", "DefensiveHold", "StraightCharge", "FlankingManeuver" ],
+	BATTLE_TACTICS_ATTACK: [0, -30, 35, 25],
+	BATTLE_TACTICS_DEFENSE: [0, 30, -45, -30],
+}

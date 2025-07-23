@@ -1,0 +1,13 @@
+[
+{
+	Name: "Oleksandr Udovychenko",
+	ImageID: ukr\\OleksandrUdovychenko,
+
+	BornDay: 1,
+	BornMonth: 1,
+	BornYear: 1900,
+
+	Attack: -1,
+	Defense: -1,
+},
+]

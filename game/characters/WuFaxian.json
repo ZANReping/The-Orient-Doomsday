@@ -1,0 +1,13 @@
+[
+{
+	Name: "Wu Faxian",
+	ImageID: ccpc\\WuFaxian,
+
+	BornDay: 1,
+	BornMonth: 1,
+	BornYear: 1900,
+
+	Attack: 4,
+	Defense: 6,
+},
+]

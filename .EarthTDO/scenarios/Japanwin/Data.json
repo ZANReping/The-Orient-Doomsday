@@ -1,0 +1,1138 @@
+[
+{
+	CivTAG: "0col_n",
+	CivID: 1,
+	PCID: 1,
+	CPID: 2162,
+	Economy: 30
+},
+{
+	CivTAG: "0ukb_d",
+	CivID: 2,
+	PCID: 2,
+	CPID: 825,
+	TechnologyID: 75,
+	Economy: 34
+},
+{
+	CivTAG: "0fra_j",
+	CivID: 3,
+	PCID: 3,
+	CPID: 260,
+	Economy: 24
+},
+{
+	CivTAG: "0irl_d",
+	CivID: 4,
+	PCID: 4,
+	CPID: 920,
+	Economy: 30
+},
+{
+	CivTAG: "0bel_k",
+	CivID: 5,
+	PCID: 5,
+	CPID: 832,
+	Economy: 34
+},
+{
+	CivTAG: "0lux_耶",
+	CivID: 6,
+	PCID: 6,
+	CPID: 379
+},
+{
+	CivTAG: "0ned_基",
+	CivID: 7,
+	PCID: 7,
+	CPID: 6502,
+	Economy: 43
+},
+{
+	CivTAG: "0gern_自",
+	CivID: 8,
+	PCID: 8,
+	CPID: 592,
+	Economy: 18
+},
+{
+	CivTAG: "0ita_q",
+	CivID: 9,
+	PCID: 9,
+	CPID: 151,
+	Economy: 22
+},
+{
+	CivTAG: "0smr_n",
+	CivID: 10,
+	PCID: 10,
+	CPID: 181
+},
+{
+	CivTAG: "0vat_o",
+	CivID: 11,
+	PCID: 11,
+	CPID: 6881
+},
+{
+	CivTAG: "0itm_粹",
+	CivID: 12,
+	PCID: 12,
+	CPID: 196,
+	Economy: 28
+},
+{
+	CivTAG: "0mco_二",
+	CivID: 13,
+	PCID: 13,
+	CPID: 134
+},
+{
+	CivTAG: "0and_二",
+	CivID: 14,
+	PCID: 14,
+	CPID: 55
+},
+{
+	CivTAG: "0swi_q",
+	CivID: 15,
+	PCID: 15,
+	CPID: 310,
+	Economy: 40
+},
+{
+	CivTAG: "0lie_二",
+	CivID: 16,
+	PCID: 16,
+	CPID: 307
+},
+{
+	CivTAG: "0aut_耶",
+	CivID: 17,
+	PCID: 17,
+	CPID: 688,
+	Economy: 37
+},
+{
+	CivTAG: "0csr_a",
+	CivID: 18,
+	PCID: 18,
+	CPID: 656,
+	Economy: 36
+},
+{
+	CivTAG: "0esp_团",
+	CivID: 19,
+	PCID: 19,
+	CPID: 6561,
+	Economy: 28
+},
+{
+	CivTAG: "0hun_农",
+	CivID: 20,
+	PCID: 20,
+	CPID: 3141
+},
+{
+	CivTAG: "0den_k",
+	CivID: 21,
+	PCID: 21,
+	CPID: 965,
+	Economy: 40
+},
+{
+	CivTAG: "0algf_族",
+	CivID: 22,
+	PCID: 22,
+	CPID: 1399,
+	Economy: 28
+},
+{
+	CivTAG: "0mar_二",
+	CivID: 23,
+	PCID: 23,
+	CPID: 2920
+},
+{
+	CivTAG: "0mtn_兰",
+	CivID: 24,
+	PCID: 24,
+	CPID: 4419
+},
+{
+	CivTAG: "0mli_会",
+	CivID: 25,
+	PCID: 25,
+	CPID: 4471
+},
+{
+	CivTAG: "0geb_w",
+	CivID: 26,
+	PCID: 26,
+	CPID: 2432
+},
+{
+	CivTAG: "0ffra_d",
+	CivID: 27,
+	PCID: 27,
+	CPID: 2453,
+	Economy: 32
+},
+{
+	CivTAG: "0gui_非",
+	CivID: 28,
+	PCID: 28,
+	CPID: 4666
+},
+{
+	CivTAG: "0aza_m",
+	CivID: 29,
+	PCID: 29,
+	CPID: 4729
+},
+{
+	CivTAG: "0nig_a",
+	CivID: 30,
+	PCID: 30,
+	CPID: 2536
+},
+{
+	CivTAG: "0cmr_非",
+	CivID: 31,
+	PCID: 31,
+	CPID: 3786
+},
+{
+	CivTAG: "0caf_社",
+	CivID: 32,
+	PCID: 32,
+	CPID: 4003
+},
+{
+	CivTAG: "0belc_贵",
+	CivID: 33,
+	PCID: 33,
+	CPID: 3386,
+	Economy: 30
+},
+{
+	CivTAG: "0por_文",
+	CivID: 34,
+	PCID: 34,
+	CPID: 11,
+	Economy: 26
+},
+{
+	CivTAG: "0iraj_e",
+	CivID: 35,
+	PCID: 35,
+	CPID: 5532,
+	Economy: 30
+},
+{
+	CivTAG: "0iahd_会",
+	CivID: 36,
+	PCID: 36,
+	CPID: 5300,
+	Economy: 32
+},
+{
+	CivTAG: "0bhu_m",
+	CivID: 37,
+	PCID: 37,
+	CPID: 3432
+},
+{
+	CivTAG: "0nep_m",
+	CivID: 38,
+	PCID: 38,
+	CPID: 5495
+},
+{
+	CivTAG: "0pak_伊",
+	CivID: 39,
+	PCID: 39,
+	CPID: 5813
+},
+{
+	CivTAG: "0ind_社",
+	CivID: 40,
+	PCID: 40,
+	CPID: 5570,
+	Economy: 34
+},
+{
+	CivTAG: "0afg_二",
+	CivID: 41,
+	PCID: 41,
+	CPID: 5843
+},
+{
+	CivTAG: "0tib_o",
+	CivID: 42,
+	PCID: 42,
+	CPID: 11207
+},
+{
+	CivTAG: "0chma_阀",
+	CivID: 43,
+	PCID: 43,
+	CPID: 11217,
+	Economy: 38
+},
+{
+	CivTAG: "0men_贵",
+	CivID: 44,
+	PCID: 44,
+	CPID: 11092
+},
+{
+	CivTAG: "0chn_汪",
+	CivID: 45,
+	PCID: 45,
+	CPID: 2873,
+	Economy: 34
+},
+{
+	CivTAG: "0jpa_管",
+	CivID: 46,
+	PCID: 46,
+	CPID: 1755,
+	TechnologyID: 76,
+	Economy: 48,
+	TaxEff: 36
+},
+{
+	CivTAG: "0man_团",
+	CivID: 47,
+	PCID: 47,
+	CPID: 11099,
+	Economy: 48
+},
+{
+	CivTAG: "0tun_m",
+	CivID: 48,
+	PCID: 48,
+	CPID: 2242
+},
+{
+	CivTAG: "0gre_民",
+	CivID: 49,
+	PCID: 49,
+	CPID: 2202,
+	Economy: 28
+},
+{
+	CivTAG: "0alb_m",
+	CivID: 50,
+	PCID: 50,
+	CPID: 2231
+},
+{
+	CivTAG: "0bul_二",
+	CivID: 51,
+	PCID: 51,
+	CPID: 3169
+},
+{
+	CivTAG: "0yug_二",
+	CivID: 52,
+	PCID: 52,
+	CPID: 1431,
+	Economy: 24
+},
+{
+	CivTAG: "0tnst_温",
+	CivID: 53,
+	PCID: 53,
+	CPID: 1042
+},
+{
+	CivTAG: "0molr_革",
+	CivID: 54,
+	PCID: 54,
+	CPID: 1257
+},
+{
+	CivTAG: "0mda_寡",
+	CivID: 55,
+	PCID: 55,
+	CPID: 1258
+},
+{
+	CivTAG: "0rou_二",
+	CivID: 56,
+	PCID: 56,
+	CPID: 473
+},
+{
+	CivTAG: "0crms_c",
+	CivID: 57,
+	PCID: 57,
+	CPID: 1268
+},
+{
+	CivTAG: "0ukr_会",
+	CivID: 58,
+	PCID: 58,
+	CPID: 3757,
+	Economy: 28
+},
+{
+	CivTAG: "0lit_a",
+	CivID: 59,
+	PCID: 59,
+	CPID: 494
+},
+{
+	CivTAG: "0lat_a",
+	CivID: 60,
+	PCID: 60,
+	CPID: 504
+},
+{
+	CivTAG: "0est_a",
+	CivID: 61,
+	PCID: 61,
+	CPID: 513
+},
+{
+	CivTAG: "0blr_a",
+	CivID: 62,
+	PCID: 62,
+	CPID: 3658
+},
+{
+	CivTAG: "0ccss_高",
+	CivID: 63,
+	PCID: 63,
+	CPID: 10431,
+	Economy: 38
+},
+{
+	CivTAG: "0rdo_l",
+	CivID: 64,
+	PCID: 64,
+	CPID: 10868
+},
+{
+	CivTAG: "0rsp_r",
+	CivID: 65,
+	PCID: 65,
+	CPID: 3738,
+	Economy: 38
+},
+{
+	CivTAG: "0rmo_j",
+	CivID: 66,
+	PCID: 66,
+	CPID: 3726,
+	Economy: 36
+},
+{
+	CivTAG: "0rno_发",
+	CivID: 67,
+	PCID: 67,
+	CPID: 11756
+},
+{
+	CivTAG: "0swe_k",
+	CivID: 68,
+	PCID: 68,
+	CPID: 1049,
+	Economy: 38
+},
+{
+	CivTAG: "0fin_q",
+	CivID: 69,
+	PCID: 69,
+	CPID: 1461,
+	Economy: 39
+},
+{
+	CivTAG: "0nor_k",
+	CivID: 70,
+	PCID: 70,
+	CPID: 1009
+},
+{
+	CivTAG: "0isl_r",
+	CivID: 71,
+	PCID: 71,
+	CPID: 951
+},
+{
+	CivTAG: "0cyp_基",
+	CivID: 72,
+	PCID: 72,
+	CPID: 1357
+},
+{
+	CivTAG: "0tur_r",
+	CivID: 73,
+	PCID: 73,
+	CPID: 2207,
+	Economy: 25
+},
+{
+	CivTAG: "0syr_民",
+	CivID: 74,
+	PCID: 74,
+	CPID: 3719
+},
+{
+	CivTAG: "0irq_二",
+	CivID: 75,
+	PCID: 75,
+	CPID: 2639,
+	Economy: 28
+},
+{
+	CivTAG: "0kur_会",
+	CivID: 76,
+	PCID: 76,
+	CPID: 2594
+},
+{
+	CivTAG: "0iri_二",
+	CivID: 77,
+	PCID: 77,
+	CPID: 2578,
+	Economy: 30
+},
+{
+	CivTAG: "0lvt_r",
+	CivID: 78,
+	PCID: 78,
+	CPID: 12580
+},
+{
+	CivTAG: "0yrsl_联",
+	CivID: 79,
+	PCID: 79,
+	CPID: 8065
+},
+{
+	CivTAG: "0sau_m",
+	CivID: 80,
+	PCID: 80,
+	CPID: 6109
+},
+{
+	CivTAG: "0yem_m",
+	CivID: 81,
+	PCID: 81,
+	CPID: 5043
+},
+{
+	CivTAG: "0tkms_c",
+	CivID: 82,
+	PCID: 82,
+	CPID: 10472,
+	Economy: 40
+},
+{
+	CivTAG: "0rul_d",
+	CivID: 83,
+	PCID: 83,
+	CPID: 11345
+},
+{
+	CivTAG: "0mya_会",
+	CivID: 84,
+	PCID: 84,
+	CPID: 5678
+},
+{
+	CivTAG: "0tha_二",
+	CivID: 85,
+	PCID: 85,
+	CPID: 1603
+},
+{
+	CivTAG: "0mly_会",
+	CivID: 86,
+	PCID: 86,
+	CPID: 1582
+},
+{
+	CivTAG: "0lao_二",
+	CivID: 87,
+	PCID: 87,
+	CPID: 1608
+},
+{
+	CivTAG: "0cam_二",
+	CivID: 88,
+	PCID: 88,
+	CPID: 1641
+},
+{
+	CivTAG: "0vie_二",
+	CivID: 89,
+	PCID: 89,
+	CPID: 2768,
+	Economy: 32
+},
+{
+	CivTAG: "0ina_会",
+	CivID: 90,
+	PCID: 90,
+	CPID: 1554,
+	Economy: 30
+},
+{
+	CivTAG: "0phi_汪",
+	CivID: 91,
+	PCID: 91,
+	CPID: 5909
+},
+{
+	CivTAG: "0eth_二",
+	CivID: 92,
+	PCID: 92,
+	CPID: 4389,
+	Economy: 38
+},
+{
+	CivTAG: "0lba_二",
+	CivID: 93,
+	PCID: 93,
+	CPID: 1365
+},
+{
+	CivTAG: "0egy_贵",
+	CivID: 94,
+	PCID: 94,
+	CPID: 2669,
+	Economy: 30
+},
+{
+	CivTAG: "0cha_会",
+	CivID: 95,
+	PCID: 95,
+	CPID: 4487
+},
+{
+	CivTAG: "0mad_会",
+	CivID: 96,
+	PCID: 96,
+	CPID: 3489
+},
+{
+	CivTAG: "0rhd_d",
+	CivID: 97,
+	PCID: 97,
+	CPID: 3364,
+	Economy: 32
+},
+{
+	CivTAG: "0rsa_族",
+	CivID: 98,
+	PCID: 98,
+	CPID: 3043,
+	Economy: 33
+},
+{
+	CivTAG: "0tjks_军",
+	CivID: 99,
+	PCID: 99,
+	CPID: 5884,
+	Economy: 36
+},
+{
+	CivTAG: "0uzbs_温",
+	CivID: 100,
+	PCID: 100,
+	CPID: 10599,
+	Economy: 36
+},
+{
+	CivTAG: "0kazs_列",
+	CivID: 101,
+	PCID: 101,
+	CPID: 10944,
+	Economy: 36
+},
+{
+	CivTAG: "0rsb_寡",
+	CivID: 102,
+	PCID: 102,
+	CPID: 11147
+},
+{
+	CivTAG: "0rwe_贵",
+	CivID: 103,
+	PCID: 103,
+	CPID: 11732
+},
+{
+	CivTAG: "0jka_命",
+	CivID: 104,
+	PCID: 104,
+	CPID: 10945
+},
+{
+	CivTAG: "0rfs_教",
+	CivID: 105,
+	PCID: 105,
+	CPID: 11679
+},
+{
+	CivTAG: "0rfe_w",
+	CivID: 106,
+	PCID: 106,
+	CPID: 10972
+},
+{
+	CivTAG: "0rsh_民",
+	CivID: 107,
+	PCID: 107,
+	CPID: 11860
+},
+{
+	CivTAG: "0rby_会",
+	CivID: 108,
+	PCID: 108,
+	CPID: 10760
+},
+{
+	CivTAG: "0rik_法",
+	CivID: 109,
+	PCID: 109,
+	CPID: 10737
+},
+{
+	CivTAG: "0atag_z",
+	CivID: 110,
+	PCID: 110,
+	CPID: 13865
+},
+{
+	CivTAG: "0uru_r",
+	CivID: 111,
+	PCID: 111,
+	CPID: 3408
+},
+{
+	CivTAG: "0par_团",
+	CivID: 112,
+	PCID: 112,
+	CPID: 7716
+},
+{
+	CivTAG: "0bol_会",
+	CivID: 113,
+	PCID: 113,
+	CPID: 2119
+},
+{
+	CivTAG: "0arg_k",
+	CivID: 114,
+	PCID: 114,
+	CPID: 7727,
+	Economy: 27
+},
+{
+	CivTAG: "0chl_吉",
+	CivID: 115,
+	PCID: 115,
+	CPID: 7774
+},
+{
+	CivTAG: "0per_民",
+	CivID: 116,
+	PCID: 116,
+	CPID: 2041,
+	Economy: 32
+},
+{
+	CivTAG: "0rpn_v",
+	CivID: 117,
+	PCID: 117,
+	CPID: 11981
+},
+{
+	CivTAG: "0ecu_w",
+	CivID: 118,
+	PCID: 118,
+	CPID: 2100
+},
+{
+	CivTAG: "0guy_社",
+	CivID: 119,
+	PCID: 119,
+	CPID: 5198
+},
+{
+	CivTAG: "0ven_w",
+	CivID: 120,
+	PCID: 120,
+	CPID: 5083,
+	Economy: 30
+},
+{
+	CivTAG: "0hai_文",
+	CivID: 121,
+	PCID: 121,
+	CPID: 2324
+},
+{
+	CivTAG: "0dom_文",
+	CivID: 122,
+	PCID: 122,
+	CPID: 2328
+},
+{
+	CivTAG: "0wis_k",
+	CivID: 123,
+	PCID: 123,
+	CPID: 1693,
+	Economy: 30
+},
+{
+	CivTAG: "0cub_w",
+	CivID: 124,
+	PCID: 124,
+	CPID: 2320
+},
+{
+	CivTAG: "0bra_粹",
+	CivID: 125,
+	PCID: 125,
+	CPID: 1970,
+	Economy: 22
+},
+{
+	CivTAG: "0pan_e",
+	CivID: 126,
+	PCID: 126,
+	CPID: 5116
+},
+{
+	CivTAG: "0cos_k",
+	CivID: 127,
+	PCID: 127,
+	CPID: 8221
+},
+{
+	CivTAG: "0nca_文",
+	CivID: 128,
+	PCID: 128,
+	CPID: 8210
+},
+{
+	CivTAG: "0hon_w",
+	CivID: 129,
+	PCID: 129,
+	CPID: 1895
+},
+{
+	CivTAG: "0esa_发",
+	CivID: 130,
+	PCID: 130,
+	CPID: 8213
+},
+{
+	CivTAG: "0gua_w",
+	CivID: 131,
+	PCID: 131,
+	CPID: 1858
+},
+{
+	CivTAG: "0mex_a",
+	CivID: 132,
+	PCID: 132,
+	CPID: 2376,
+	Economy: 19
+},
+{
+	CivTAG: "0can_s",
+	CivID: 133,
+	PCID: 133,
+	CPID: 10243,
+	TechnologyID: 74,
+	Economy: 30
+},
+{
+	CivTAG: "0aus_k",
+	CivID: 134,
+	PCID: 134,
+	CPID: 6950,
+	Economy: 28
+},
+{
+	CivTAG: "0nzl_r",
+	CivID: 135,
+	PCID: 135,
+	CPID: 6762,
+	Economy: 38
+},
+{
+	CivTAG: "0usa_麦",
+	CivID: 136,
+	PCID: 136,
+	CPID: 8714,
+	TechnologyID: 76,
+	Economy: 40
+},
+{
+	CivTAG: "0oma_m",
+	CivID: 137,
+	PCID: 137,
+	CPID: 6230
+},
+{
+	CivTAG: "0sik_m",
+	CivID: 138,
+	PCID: 138,
+	CPID: 5323
+},
+{
+	CivTAG: "0lbr_d",
+	CivID: 139,
+	PCID: 139,
+	CPID: 4672
+},
+{
+	CivTAG: "0phi2_q",
+	CivID: 140,
+	PCID: 140,
+	CPID: 5928,
+	Economy: 33
+},
+{
+	CivTAG: "0lbn_a",
+	CivID: 141,
+	PCID: 141,
+	CPID: 6087
+},
+{
+	CivTAG: "0jor_二",
+	CivID: 142,
+	PCID: 142,
+	CPID: 6085
+},
+{
+	CivTAG: "0bru_m",
+	CivID: 143,
+	PCID: 46,
+	CPID: 1475
+},
+{
+	CivTAG: "0chy_文",
+	CivID: 144,
+	PCID: 144,
+	CPID: 6328
+},
+{
+	CivTAG: "0chxk_w",
+	CivID: 145,
+	PCID: 145,
+	CPID: 6344
+},
+{
+	CivTAG: "0chx_w",
+	CivID: 146,
+	PCID: 146,
+	CPID: 2812
+},
+{
+	CivTAG: "0chg_寡",
+	CivID: 147,
+	PCID: 147,
+	CPID: 6351
+},
+{
+	CivTAG: "0chyl_兰",
+	CivID: 148,
+	PCID: 148,
+	CPID: 13918
+},
+{
+	CivTAG: "0chxj_w",
+	CivID: 149,
+	PCID: 149,
+	CPID: 10777
+},
+{
+	CivTAG: "0chht_穆",
+	CivID: 150,
+	PCID: 150,
+	CPID: 10622
+},
+{
+	CivTAG: "0ckmt_党",
+	CivID: 151,
+	PCID: 151,
+	CPID: 11220
+},
+{
+	CivTAG: "0chs_w",
+	CivID: 152,
+	PCID: 152,
+	CPID: 6248
+},
+{
+	CivTAG: "0ccpc_毛",
+	CivID: 153,
+	PCID: 153,
+	CPID: 10679
+},
+{
+	CivTAG: "0chsa_阀",
+	CivID: 154,
+	PCID: 154,
+	CPID: 13950
+},
+{
+	CivTAG: "0chgd_汪",
+	CivID: 155,
+	PCID: 45,
+	CPID: 2782
+},
+{
+	CivTAG: "0ccsc_市",
+	CivID: 156,
+	PCID: 156,
+	CPID: 6448
+},
+{
+	CivTAG: "0chxi_文",
+	CivID: 157,
+	PCID: 157,
+	CPID: 6436
+},
+{
+	CivTAG: "0chh_文",
+	CivID: 158,
+	PCID: 158,
+	CPID: 3475
+},
+{
+	CivTAG: "0bade_r",
+	CivID: 159,
+	PCID: 2,
+	CPID: 5046
+},
+{
+	CivTAG: "0btru_d",
+	CivID: 160,
+	PCID: 2,
+	CPID: 3518
+},
+{
+	CivTAG: "0kwt_m",
+	CivID: 161,
+	PCID: 161,
+	CPID: 2616
+},
+{
+	CivTAG: "0soml_族",
+	CivID: 162,
+	PCID: 162,
+	CPID: 4372
+},
+{
+	CivTAG: "0bgmb_d",
+	CivID: 163,
+	PCID: 2,
+	CPID: 2473
+},
+{
+	CivTAG: "0bsle_d",
+	CivID: 164,
+	PCID: 2,
+	CPID: 2456
+},
+{
+	CivTAG: "0gha_非",
+	CivID: 165,
+	PCID: 165,
+	CPID: 4632
+},
+{
+	CivTAG: "0nga_w",
+	CivID: 166,
+	PCID: 166,
+	CPID: 4683
+},
+{
+	CivTAG: "0bswa_族",
+	CivID: 167,
+	PCID: 98,
+	CPID: 4166
+},
+{
+	CivTAG: "0bbcn_寡",
+	CivID: 168,
+	PCID: 2,
+	CPID: 3316
+},
+{
+	CivTAG: "0bzzb_m",
+	CivID: 169,
+	PCID: 2,
+	CPID: 11396
+},
+{
+	CivTAG: "0bken_k",
+	CivID: 170,
+	PCID: 2,
+	CPID: 3948
+},
+{
+	CivTAG: "0btgk_d",
+	CivID: 171,
+	PCID: 2,
+	CPID: 3961
+},
+{
+	CivTAG: "0buga_n",
+	CivID: 172,
+	PCID: 2,
+	CPID: 3370
+},
+{
+	CivTAG: "0swz_m",
+	CivID: 173,
+	PCID: 2,
+	CPID: 3283
+},
+{
+	CivTAG: "0bstl_二",
+	CivID: 174,
+	PCID: 2,
+	CPID: 3255
+},
+{
+	CivTAG: "0chgs_党",
+	CivID: 175,
+	PCID: 175,
+	CPID: 11221
+},
+{
+	CivTAG: "0chmd_党",
+	CivID: 176,
+	PCID: 176,
+	CPID: 5713
+},
+{
+	CivTAG: "0tuv_c",
+	CivID: 177,
+	PCID: 177,
+	CPID: 10735
+},
+{
+	CivTAG: "0mng_温",
+	CivID: 178,
+	PCID: 178,
+	CPID: 11161
+},
+{
+	CivTAG: "0pol_j",
+	CivID: 179,
+	PCID: 179,
+	CPID: 1276
+}
+]

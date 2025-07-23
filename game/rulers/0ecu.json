@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Ramon Castro Jijon",
+			ImageID: 拉蒙·卡斯特罗·希洪,
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1900,
+			
+			ReignYear: 1960,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

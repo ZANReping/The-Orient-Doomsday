@@ -1,0 +1,13 @@
+[
+{
+	Name: "Ku Chu-tung",
+	ImageID: chn\\KuChu-tung,
+
+	BornDay: 1,
+	BornMonth: 1,
+	BornYear: 1900,
+
+	Attack: -1,
+	Defense: -1,
+},
+]

@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Victor Paz Estenssoro",
+			ImageID: 维克托帕斯埃斯登索罗,
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1900,
+			
+			ReignYear: 1960,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

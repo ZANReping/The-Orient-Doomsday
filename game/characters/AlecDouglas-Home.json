@@ -1,0 +1,17 @@
+[
+{
+    "Name": "Alec Douglas-Home",
+    "ImageID": "ukb\\AlecDouglas-Home",
+
+    "BornDay": 2,
+    "BornMonth": 7,
+    "BornYear": 1903,
+    "Desc":"亚力克·道格拉斯-休姆\\n§F-----§0\\n§Y外交大臣、第十四代休姆伯爵\\n英国保守党-一国保守主义者\\n家长制保守主义§0\\n§F-----§0\\n§L作为上议院议员，担任外相这一职位的休姆从来是工党对手的攻击对象。\\n不过，休姆在这一职位上的表现并不像一个花瓶般的贵族。§0",
+    "Bonuses":{
+        "ImproveRelationsModifier":25f,
+        "ReligionCost":-15f
+    }
+    Attack: -1,
+    Defense: -1
+},
+]

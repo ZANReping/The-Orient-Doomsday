@@ -1,0 +1,13 @@
+[
+{
+	Name: "Hans Erling Haekkerup",
+	ImageID: den\\HansErlingHaekkerup,
+
+	BornDay: 1,
+	BornMonth: 1,
+	BornYear: 1900,
+
+	Attack: -1,
+	Defense: -1,
+},
+]

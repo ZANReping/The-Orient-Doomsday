@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Daniel Fernández Crespo",
+			ImageID: 丹尼尔·费尔南德斯·克雷斯波,
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1900,
+			
+			ReignYear: 1960,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

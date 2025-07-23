@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Eugene Dennis",
+			ImageID: 尤金丹尼斯,
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1900,
+			
+			ReignYear: 1960,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

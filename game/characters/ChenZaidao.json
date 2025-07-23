@@ -1,0 +1,13 @@
+[
+{
+	Name: "Chen Zaidao",
+	ImageID: ccpc\\ChenZaidao,
+
+	BornDay: 1,
+	BornMonth: 1,
+	BornYear: 1900,
+
+	Attack: 7,
+	Defense: 3,
+},
+]

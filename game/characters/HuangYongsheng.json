@@ -1,0 +1,13 @@
+[
+{
+	Name: "Huang Yongsheng",
+	ImageID: ccpc\\HuangYongsheng,
+
+	BornDay: 1,
+	BornMonth: 1,
+	BornYear: 1900,
+
+	Attack: 5,
+	Defense: 7,
+},
+]

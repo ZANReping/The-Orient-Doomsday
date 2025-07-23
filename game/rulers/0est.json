@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Aleksander Warma",
+			ImageID: 亚历山大·华马,
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1900,
+			
+			ReignYear: 1960,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

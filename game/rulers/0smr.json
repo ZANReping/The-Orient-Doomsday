@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Grand and General Council",
+			ImageID: 圣马力诺大议会,
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1900,
+			
+			ReignYear: 1960,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

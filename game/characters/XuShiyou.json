@@ -1,0 +1,13 @@
+[
+{
+	Name: "Xu Shiyou",
+	ImageID: ccpc\\XuShiyou,
+
+	BornDay: 1,
+	BornMonth: 1,
+	BornYear: 1900,
+
+	Attack: 2,
+	Defense: 7,
+},
+]

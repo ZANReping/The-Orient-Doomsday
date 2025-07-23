@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Alfredo Stroessner",
+			ImageID: 阿尔弗雷多·斯特罗斯纳,
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1900,
+			
+			ReignYear: 1960,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

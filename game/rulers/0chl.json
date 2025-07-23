@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Jorge Alessandri",
+			ImageID: 豪尔赫·亚历山德里,
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1900,
+			
+			ReignYear: 1960,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

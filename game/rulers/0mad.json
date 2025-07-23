@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Gabriel Ramanantsoa",
+			ImageID: 拉马南楚阿,
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1900,
+			
+			ReignYear: 1960,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

@@ -1,0 +1,21 @@
+{
+Name: "The Doomsday of the Orient",
+Author: "ZANReping",
+Civs: 179,
+Age: 9,
+Day: 1,
+Month: 1,
+Year: 1964,
+Campaign: false,
+CivDefault_Gold: 1000,
+CivDefault_GoldRandom: 500,
+CivDefault_Legacy: 250,
+CivDefault_LegacyRandom: 125,
+CivDefault_ManpowerPercentage: 95,
+CivDefault_Technology: 74,
+ProvinceDefault_Population: 900000,
+ProvinceDefault_Economy: 30,
+ProvinceDefault_TaxEfficiency: 32,
+ProvinceDefault_Manpower: 80,
+HoursPerTurn: 2
+}

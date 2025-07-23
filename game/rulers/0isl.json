@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Bjarni Benediktsson",
+			ImageID: 比亚德尼·贝内迪克松,
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1900,
+			
+			ReignYear: 1960,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

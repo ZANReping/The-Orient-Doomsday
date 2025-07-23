@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Gurgen Nagolyan",
+			ImageID: 古尔根纳戈良,
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1900,
+			
+			ReignYear: 1960,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

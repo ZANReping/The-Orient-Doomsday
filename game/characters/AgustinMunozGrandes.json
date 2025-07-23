@@ -1,0 +1,13 @@
+[
+{
+	Name: "Agustin Munoz Grandes",
+	ImageID: esp\\AgustinMunozGrandes,
+
+	BornDay: 1,
+	BornMonth: 1,
+	BornYear: 1900,
+
+	Attack: -1,
+	Defense: -1,
+},
+]

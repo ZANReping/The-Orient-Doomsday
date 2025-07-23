@@ -1,0 +1,13 @@
+[
+{
+	Name: "Lin Biao",
+	ImageID: ccpc\\LinBiao,
+
+	BornDay: 1,
+	BornMonth: 1,
+	BornYear: 1900,
+
+	Attack: 9,
+	Defense: 7,
+},
+]

@@ -1,0 +1,25 @@
+id=test2.t
+title=test2.t
+desc=test2.d $test
+
+popUp=true
+
+image=1.png
+
+show_in_missions=false
+
+only_once=true
+
+trigger_and
+next_and
+exact_day=2=1=1964
+next_and
+is_civ=0chn
+if_counter=$test=114514
+trigger_and_end
+
+option_btn
+name=test.b
+ai=10
+add_counter=$test=114514
+option_end

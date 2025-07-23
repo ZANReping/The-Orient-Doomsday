@@ -1,0 +1,13 @@
+[
+{
+	Name: "William Westmoreland",
+	ImageID: usa\\WilliamWestmoreland,
+
+	BornDay: 1,
+	BornMonth: 1,
+	BornYear: 1900,
+
+	Attack: 9,
+	Defense: 9,
+},
+]

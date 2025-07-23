@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Muhammad VIII al-Amin",
+			ImageID: 穆罕默德八世·阿明,
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1900,
+			
+			ReignYear: 1960,
+		},
+	],
+	
+	Age_of_History: Rulers
+}
