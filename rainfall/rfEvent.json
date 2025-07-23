@@ -1,0 +1,16 @@
+{
+	"layoutConfigs":[
+	{
+		"id":0,
+		"tag":"normal",
+		"buttonX":0,
+		"buttonY":1,
+		"buttonWidth":1,
+		"textX":0,
+		"textY":1,
+		"textWidth":1,
+		"showTitle":true
+
+	}
+	]
+}

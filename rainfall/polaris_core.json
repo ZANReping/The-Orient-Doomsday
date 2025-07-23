@@ -1,0 +1,83 @@
+{
+	"links":[
+	{
+		"sText":"Youtube: ",
+		"sText2":"Age of History 3",
+		"link":"https://www.youtube.com/channel/UCppKzood12fbJhZClXfukFw",
+		"icon":"yt"
+	},
+	{
+		"sText":"Android: ",
+		"sText2":"Age of History 3",
+		"link":"https://play.google.com/store/apps/details?id=age.of.history3.lukasz.jakowski",
+		"icon":"android"
+	},
+	{
+		"sText":"iOS: ",
+		"sText2":"Age of History 3",
+		"link":"https://apps.apple.com/app/age-of-history-3/id6686394372",
+		"icon":"app"
+	},
+	{
+		"sText":"Steam: ",
+		"sText2":"Age of History 3",
+		"link":"https://store.steampowered.com/app/2772750/Age_of_History_3/",
+		"icon":"pc"
+	}
+	],
+	"textColors":[
+	{
+		"color":"ffffff",
+		"sign":"0"
+	},
+	{
+		"color":"add8e6",
+		"sign":"1"
+	},
+	{
+		"color":"e6bbad",
+		"sign":"2"
+	},
+	{
+		"color":"d31e1c",
+		"sign":"3"
+	},
+	{
+		"color":"ff0000",
+		"sign":"x"
+	},
+	{
+		"color":"00aeef",
+		"sign":"m"
+	},
+	{
+		"color":"9370d8",
+		"sign":"l"
+	},
+	{
+		"color":"eaa10e",
+		"sign":"O"
+	},
+	{
+		"color":"b0b0b0",
+		"sign":"g"
+	},
+	{
+		"color":"dcda50",
+		"sign":"Y"
+	},
+	{
+		"color":"c3b091",
+		"sign":"L"
+	},
+	{
+		"color":"b2c9c2",
+		"sign":"F"
+	}
+	],
+	"SplashScreen_FadeIn":1500,
+	"SplashScreen_FadeOut":500,
+	"MainMenu_PanelX":0.1,
+	"MainMenu_Alignment":"left",
+	"forceEncoding":"auto"
+}
